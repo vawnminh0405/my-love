@@ -1,6 +1,6 @@
 
 const yourDate = new Date("2022-12-19T20:20:20"),
-music = ['nucuoiemgiolanhat','duchomaivesau','duongtoichoemve'];
+music = ['duongtoichoemve','nucuoiemgiolanhat','duchomaivesau'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
